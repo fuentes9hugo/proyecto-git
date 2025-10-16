@@ -1,6 +1,6 @@
 8:00 Despierto
-10:00 Cafesito y pa' misa
-14:30 Comida
+09:00 Cafesito y pa' misa
+14:00 Comida
 16:00 Siesta corta: 5 horas
-21:00 Cena
-23:00 A dormir
+21:30 Cena
+23:30 A dormir
